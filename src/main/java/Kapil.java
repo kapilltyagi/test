@@ -1,4 +1,4 @@
 public class Kapil{
-  public static vm(){
-    
+  public static void main(String args[]){
+    int i=10;
 }
