@@ -5,6 +5,13 @@ public class Kapil{
     int j=30;
     System.out.println(j);
     remote();
+       j=20;
+      System.out.println(j);
+      local();
+  }
+
+  static void local(){
+    System.out.println("Locaalllll");
   }
 
   static void remote(){
